@@ -64,12 +64,11 @@ HKUST(GZ) UCUG1600 跨文化交流课程 — 澳门实地考察项目。通过�
 
 原始视频文件（约 1.5GB）因体积过大未纳入 Git 仓库，通过 GitHub Releases 分发：
 
-1. 前往本仓库的 [Releases](../../releases) 页面
-2. 下载 `data-part1.zip` 和 `data-part2.zip`
-3. 解压后将文件夹放入项目根目录，确保目录结构与上方一致：
+1. 前往 [Releases 页面](https://github.com/pheonix2006/ucug1600-walking-through-macau/releases/tag/v1.0) 下载 `1600视频压缩包.zip`
+2. 解压后将文件夹放入项目根目录，确保目录结构与上方一致：
 
 ```
-E:/Project/1600/
+项目根目录/
 ├── data/          ← 解压到这里
 │   ├── 01_入境口岸与接驳大巴/
 │   ├── ...

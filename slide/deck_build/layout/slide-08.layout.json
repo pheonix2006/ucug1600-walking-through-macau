@@ -1,0 +1,453 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3ubla4",
+    "id": "3ubla4",
+    "slide": 8,
+    "layoutId": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#151A22",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/pwb2hwfy",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        760,
+        720
+      ],
+      "alt": "E:\\Project\\1600\\slide\\assets\\selected_frames\\ruins_clean_facade.jpg",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "64b60189-fe6c-43c7-a90f-6c1ba7f624ab",
+        "contentType": "image/jpeg",
+        "byteLength": 443770
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        760,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0.33333)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "4",
+      "bbox": [
+        820,
+        88,
+        340,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Macau as Heritage",
+      "textPreview": "Macau as Heritage",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Macau as Heritage"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Macau as Heritage",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Macau as Heritage",
+              "fontSize": 26,
+              "typeface": "Microsoft YaHei",
+              "color": "#F2D7A0",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "5",
+      "bbox": [
+        820,
+        145,
+        360,
+        105
+      ],
+      "geometry": "rect",
+      "text": "Heritage is not silent;\nit tells a story.",
+      "textPreview": "Heritage is not silent; | it tells a story.",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Heritage is not"
+          },
+          {
+            "index": 2,
+            "text": "silent;"
+          },
+          {
+            "index": 3,
+            "text": "it tells a story."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Heritage is not silent;",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Heritage is not silent;",
+              "fontSize": 35,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "it tells a story.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "it tells a story.",
+              "fontSize": 35,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "6",
+      "bbox": [
+        822,
+        300,
+        350,
+        105
+      ],
+      "geometry": "rect",
+      "text": "The Ruins of St. Paul's presents Macau through Catholic memory, Portuguese colonial history, and world heritage.",
+      "textPreview": "The Ruins of St. Paul's presents Macau through Catholic memory, Portuguese colonial history, and world heritage.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The Ruins of St. Paul's presents Macau"
+          },
+          {
+            "index": 2,
+            "text": "through Catholic memory, Portuguese"
+          },
+          {
+            "index": 3,
+            "text": "colonial history, and world heritage."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The Ruins of St. Paul's presents Macau through Catholic memory, Portuguese colonial history, and world heritage.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The Ruins of St. Paul's presents Macau through Catholic memory, Portuguese colonial history, and world heritage.",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#E8EDF5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "7",
+      "bbox": [
+        822,
+        438,
+        350,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Crowds and tourist photography also turn heritage into a contemporary tourism narrative.",
+      "textPreview": "Crowds and tourist photography also turn heritage into a contemporary tourism narrative.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Crowds and tourist photography also"
+          },
+          {
+            "index": 2,
+            "text": "turn heritage into a contemporary"
+          },
+          {
+            "index": 3,
+            "text": "tourism narrative."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Crowds and tourist photography also turn heritage into a contemporary tourism narrative.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Crowds and tourist photography also turn heritage into a contemporary tourism narrative.",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#E8EDF5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "8",
+      "bbox": [
+        58,
+        684,
+        760,
+        22
+      ],
+      "geometry": "rect",
+      "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "textPreview": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+          "runs": [
+            {
+              "index": 1,
+              "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72x4nap4",
+      "id": "9",
+      "bbox": [
+        1180,
+        682,
+        45,
+        22
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

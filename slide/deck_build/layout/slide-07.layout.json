@@ -1,0 +1,701 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/dw22rz",
+    "id": "dw22rz",
+    "slide": 7,
+    "layoutId": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F2EA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "2",
+      "bbox": [
+        58,
+        36,
+        640,
+        24
+      ],
+      "geometry": "rect",
+      "text": "MOVEMENT",
+      "textPreview": "MOVEMENT",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MOVEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MOVEMENT",
+          "runs": [
+            {
+              "index": 1,
+              "text": "MOVEMENT",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#A23B3B",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulwval8",
+      "id": "3",
+      "bbox": [
+        56,
+        66,
+        820,
+        72
+      ],
+      "geometry": "rect",
+      "text": "Movement changed what we could see",
+      "textPreview": "Movement changed what we could see",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Movement changed what we could see"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Movement changed what we could see",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Movement changed what we could see",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "4",
+      "bbox": [
+        58,
+        137,
+        900,
+        36
+      ],
+      "geometry": "rect",
+      "text": "观察不是静止发生的，而是在车窗、公交与步行中发生。",
+      "textPreview": "观察不是静止发生的，而是在车窗、公交与步行中发生。",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "观察不是静止发生的，而是在车窗、公交与步行中发生。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "观察不是静止发生的，而是在车窗、公交与步行中发生。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "观察不是静止发生的，而是在车窗、公交与步行中发生。",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "5",
+      "bbox": [
+        54,
+        186,
+        358,
+        338
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/z25kb6xk",
+      "id": "6",
+      "bbox": [
+        58,
+        190,
+        350,
+        330
+      ],
+      "alt": "E:\\Project\\1600\\slide\\assets\\selected_frames\\bus_window.jpg",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "37964d8a-5837-4823-b578-3854c5666099",
+        "contentType": "image/jpeg",
+        "byteLength": 264450
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "7",
+      "bbox": [
+        58,
+        482,
+        350,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(17, 24, 39, 0.8)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "8",
+      "bbox": [
+        72,
+        490,
+        322,
+        20
+      ],
+      "geometry": "rect",
+      "text": "coach window",
+      "textPreview": "coach window",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "coach window"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "coach window",
+          "runs": [
+            {
+              "index": 1,
+              "text": "coach window",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "9",
+      "bbox": [
+        461,
+        186,
+        358,
+        338
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2x4nap4r",
+      "id": "10",
+      "bbox": [
+        465,
+        190,
+        350,
+        330
+      ],
+      "alt": "E:\\Project\\1600\\slide\\assets\\selected_frames\\cotai_skyline.jpg",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "3b96688e-1947-4815-8761-10f8dc371e19",
+        "contentType": "image/jpeg",
+        "byteLength": 208339
+      }
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "11",
+      "bbox": [
+        465,
+        482,
+        350,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(17, 24, 39, 0.8)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "12",
+      "bbox": [
+        479,
+        490,
+        322,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Cotai skyline",
+      "textPreview": "Cotai skyline",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Cotai skyline"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Cotai skyline",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Cotai skyline",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "13",
+      "bbox": [
+        868,
+        186,
+        358,
+        338
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6psfil0r",
+      "id": "14",
+      "bbox": [
+        872,
+        190,
+        350,
+        330
+      ],
+      "alt": "E:\\Project\\1600\\slide\\assets\\selected_frames\\transit_bus.jpg",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "56fd0bba-7f7d-43fd-9515-cb1722d40521",
+        "contentType": "image/jpeg",
+        "byteLength": 177078
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "15",
+      "bbox": [
+        872,
+        482,
+        350,
+        38
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(17, 24, 39, 0.8)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zed8v6ps",
+      "id": "16",
+      "bbox": [
+        886,
+        490,
+        322,
+        20
+      ],
+      "geometry": "rect",
+      "text": "public transit",
+      "textPreview": "public transit",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "public transit"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "public transit",
+          "runs": [
+            {
+              "index": 1,
+              "text": "public transit",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "17",
+      "bbox": [
+        180,
+        565,
+        920,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#151A22",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "18",
+      "bbox": [
+        198,
+        581,
+        884,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Intercultural communication happened not only inside places, but also between places.",
+      "textPreview": "Intercultural communication happened not only inside places, but also between places.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Intercultural communication happened not only inside places, but also between places."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Intercultural communication happened not only inside places, but also between places.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Intercultural communication happened not only inside places, but also between places.",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "19",
+      "bbox": [
+        58,
+        684,
+        760,
+        22
+      ],
+      "geometry": "rect",
+      "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "textPreview": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+          "runs": [
+            {
+              "index": 1,
+              "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "20",
+      "bbox": [
+        1180,
+        682,
+        45,
+        22
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1418 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/drdnk4",
+    "id": "drdnk4",
+    "slide": 14,
+    "layoutId": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a0325a1f-5b41-4239-9389-b25f3b90c44a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "dc534632-1c2e-48f2-a40e-cd4a77d60f8f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F2EA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "2",
+      "bbox": [
+        58,
+        36,
+        640,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SYNTHESIS",
+      "textPreview": "SYNTHESIS",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SYNTHESIS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SYNTHESIS",
+          "runs": [
+            {
+              "index": 1,
+              "text": "SYNTHESIS",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#A23B3B",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "3",
+      "bbox": [
+        56,
+        66,
+        820,
+        72
+      ],
+      "geometry": "rect",
+      "text": "Four spaces, four translations of Macau",
+      "textPreview": "Four spaces, four translations of Macau",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Four spaces, four translations of Macau"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Four spaces, four translations of Macau",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Four spaces, four translations of Macau",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "4",
+      "bbox": [
+        58,
+        137,
+        900,
+        36
+      ],
+      "geometry": "rect",
+      "text": "这些不是分散景点，而是四种翻译澳门的方式。",
+      "textPreview": "这些不是分散景点，而是四种翻译澳门的方式。",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "这些不是分散景点，而是四种翻译澳门的方式。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "这些不是分散景点，而是四种翻译澳门的方式。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "这些不是分散景点，而是四种翻译澳门的方式。",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "5",
+      "bbox": [
+        70,
+        205,
+        260,
+        330
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8CAB6",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "6",
+      "bbox": [
+        70,
+        205,
+        260,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#1C7773",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "7",
+      "bbox": [
+        84,
+        222,
+        232,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Border",
+      "textPreview": "Border",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Border"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Border",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Border",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "8",
+      "bbox": [
+        92,
+        292,
+        210,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Macau as...",
+      "textPreview": "Macau as...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Macau as..."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Macau as...",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Macau as...",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "9",
+      "bbox": [
+        92,
+        325,
+        216,
+        66
+      ],
+      "geometry": "rect",
+      "text": "regulated crossing space",
+      "textPreview": "regulated crossing space",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "regulated crossing"
+          },
+          {
+            "index": 2,
+            "text": "space"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "regulated crossing space",
+          "runs": [
+            {
+              "index": 1,
+              "text": "regulated crossing space",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "10",
+      "bbox": [
+        92,
+        430,
+        216,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Self / Other\nnon-verbal order",
+      "textPreview": "Self / Other | non-verbal order",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Self / Other"
+          },
+          {
+            "index": 2,
+            "text": "non-verbal order"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Self / Other",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Self / Other",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "non-verbal order",
+          "runs": [
+            {
+              "index": 1,
+              "text": "non-verbal order",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "11",
+      "bbox": [
+        370,
+        205,
+        260,
+        330
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8CAB6",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "12",
+      "bbox": [
+        370,
+        205,
+        260,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#587A46",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "13",
+      "bbox": [
+        384,
+        222,
+        232,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Heritage",
+      "textPreview": "Heritage",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Heritage"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Heritage",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Heritage",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "14",
+      "bbox": [
+        392,
+        292,
+        210,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Macau as...",
+      "textPreview": "Macau as...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Macau as..."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Macau as...",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Macau as...",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8nqxs7",
+      "id": "15",
+      "bbox": [
+        392,
+        325,
+        216,
+        66
+      ],
+      "geometry": "rect",
+      "text": "religious and colonial memory",
+      "textPreview": "religious and colonial memory",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "religious and"
+          },
+          {
+            "index": 2,
+            "text": "colonial memory"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "religious and colonial memory",
+          "runs": [
+            {
+              "index": 1,
+              "text": "religious and colonial memory",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "16",
+      "bbox": [
+        392,
+        430,
+        216,
+        56
+      ],
+      "geometry": "rect",
+      "text": "cultural memory\nstorytelling",
+      "textPreview": "cultural memory | storytelling",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "cultural memory"
+          },
+          {
+            "index": 2,
+            "text": "storytelling"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "cultural memory",
+          "runs": [
+            {
+              "index": 1,
+              "text": "cultural memory",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "storytelling",
+          "runs": [
+            {
+              "index": 1,
+              "text": "storytelling",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvy90je9",
+      "id": "17",
+      "bbox": [
+        670,
+        205,
+        260,
+        330
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8CAB6",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "18",
+      "bbox": [
+        670,
+        205,
+        260,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#C38A2E",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "19",
+      "bbox": [
+        684,
+        222,
+        232,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Everyday Street",
+      "textPreview": "Everyday Street",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Everyday Street"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Everyday Street",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Everyday Street",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "20",
+      "bbox": [
+        692,
+        292,
+        210,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Macau as...",
+      "textPreview": "Macau as...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Macau as..."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Macau as...",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Macau as...",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "21",
+      "bbox": [
+        692,
+        325,
+        216,
+        66
+      ],
+      "geometry": "rect",
+      "text": "lived commercial street",
+      "textPreview": "lived commercial street",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "lived commercial"
+          },
+          {
+            "index": 2,
+            "text": "street"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "lived commercial street",
+          "runs": [
+            {
+              "index": 1,
+              "text": "lived commercial street",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "22",
+      "bbox": [
+        692,
+        430,
+        216,
+        56
+      ],
+      "geometry": "rect",
+      "text": "linguistic landscape\nsensory observation",
+      "textPreview": "linguistic landscape | sensory observation",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "linguistic landscape"
+          },
+          {
+            "index": 2,
+            "text": "sensory observation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "linguistic landscape",
+          "runs": [
+            {
+              "index": 1,
+              "text": "linguistic landscape",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "sensory observation",
+          "runs": [
+            {
+              "index": 1,
+              "text": "sensory observation",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "23",
+      "bbox": [
+        970,
+        205,
+        260,
+        330
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8CAB6",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "24",
+      "bbox": [
+        970,
+        205,
+        260,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#A23B3B",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "25",
+      "bbox": [
+        984,
+        222,
+        232,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Global Spectacle",
+      "textPreview": "Global Spectacle",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Global Spectacle"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Global Spectacle",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Global Spectacle",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "26",
+      "bbox": [
+        992,
+        292,
+        210,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Macau as...",
+      "textPreview": "Macau as...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Macau as..."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Macau as...",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Macau as...",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "27",
+      "bbox": [
+        992,
+        325,
+        216,
+        66
+      ],
+      "geometry": "rect",
+      "text": "consumption and popular culture",
+      "textPreview": "consumption and popular culture",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "consumption and"
+          },
+          {
+            "index": 2,
+            "text": "popular culture"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "consumption and popular culture",
+          "runs": [
+            {
+              "index": 1,
+              "text": "consumption and popular culture",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2433",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1orytsv",
+      "id": "28",
+      "bbox": [
+        992,
+        430,
+        216,
+        56
+      ],
+      "geometry": "rect",
+      "text": "globalization\ncultural performance",
+      "textPreview": "globalization | cultural performance",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "globalization"
+          },
+          {
+            "index": 2,
+            "text": "cultural performance"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "globalization",
+          "runs": [
+            {
+              "index": 1,
+              "text": "globalization",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "cultural performance",
+          "runs": [
+            {
+              "index": 1,
+              "text": "cultural performance",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#566276"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmlkjm1c",
+      "id": "29",
+      "bbox": [
+        220,
+        575,
+        840,
+        66
+      ],
+      "geometry": "rect",
+      "fillColor": "#151A22",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sneloj2",
+      "id": "30",
+      "bbox": [
+        238,
+        591,
+        804,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Intercultural communication is spatial switching: moving through different systems of meaning.",
+      "textPreview": "Intercultural communication is spatial switching: moving through different systems of meaning.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Intercultural communication is spatial switching: moving through different systems of"
+          },
+          {
+            "index": 2,
+            "text": "meaning."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Intercultural communication is spatial switching: moving through different systems of meaning.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Intercultural communication is spatial switching: moving through different systems of meaning.",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbulwval",
+      "id": "31",
+      "bbox": [
+        58,
+        684,
+        760,
+        22
+      ],
+      "geometry": "rect",
+      "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "textPreview": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+          "runs": [
+            {
+              "index": 1,
+              "text": "UCUG1600 Intercultural Communication | Fieldwork in Macau",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqxs72x4",
+      "id": "32",
+      "bbox": [
+        1180,
+        682,
+        45,
+        22
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#748094"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

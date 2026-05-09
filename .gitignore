@@ -1,4 +1,21 @@
 AGENTS.md
 **/AGENTS.md
 .serena
+.claude
 data/
+
+# LaTeX compilation artifacts
+*.aux
+*.log
+*.out
+
+# ZIP archives
+*.zip
+
+# Office temp files
+~$*
+
+# Slide deck build artifacts
+slide/deck_build/contact-sheet*.png
+slide/deck_build/layout*/
+slide/deck_build/preview*/
